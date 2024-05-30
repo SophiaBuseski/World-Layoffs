@@ -7,8 +7,8 @@ In this project, I conducted an analysis of world life expectancy data with the 
 The main goal for this project was to clean the data and perform an exploratory analysis to understand the underlying patterns and correlations between different variables. This exploration extended to calculating averages and examining the relationships between life expectancy and various socio-economic factors.
 
 ## Data 
-- Excel Dataset [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Data.csv)
-- Raw Code [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Code) 
+- Excel Dataset [See It!](https://github.com/SophiaBuseski/World-Layoffs/blob/main/layoffs.csv)
+- Raw Code [See It!](https://github.com/SophiaBuseski/World-Layoffs/blob/main/World%20Layoffs%20Data%20Cleaning%20and%20Exploratory%20Analysis.sql)
 
 ## Methodology 
   ### 1. Data Cleaning: 
